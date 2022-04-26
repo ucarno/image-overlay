@@ -1,0 +1,9 @@
+.idea/
+.scripts/
+ImageOverlay.spec
+config.json
+
+__pycache__/
+build/
+dist/
+venv/
